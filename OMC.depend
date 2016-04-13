@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1460570561 source:c:\users\omar\desktop\omc\main.cpp
+	<iostream>
+	"Star.h"
+	"StarBoss.h"
+	"FileLoader.h"
+	<string.h>
+
+1460480820 
+
+1460479789 c:\users\omar\desktop\omc\include\star.h
+	<iostream>
+	"stdio.h"
+
+1460408401 c:\users\omar\desktop\omc\include\starboss.h
+	"Star.h"
+	"cellContext.h"
+
+1460474456 xt.h"
+
+1460418695 c:\users\omar\desktop\omc\include\cellcontext.h
+	<iostream>
+	"vector"
+
+1460474456 source:c:\users\omar\desktop\omc\src\cellcontext.cpp
+	"cellContext.h"
+
+1460480820 source:c:\users\omar\desktop\omc\src\star.cpp
+	"Star.h"
+
+1460486877 source:c:\users\omar\desktop\omc\src\starboss.cpp
+	"StarBoss.h"
+
+1460486877 h"
+
+1460498989 c:\users\omar\desktop\omc\include\fileloader.h
+	<sstream>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1460498989 >
+
+1460500484 source:c:\users\omar\desktop\omc\src\fileloader.cpp
+	"FileLoader.h"
+	<string.h>
+
+1460551418 source:/media/ressay/TI31022000A/Users/Omar/Desktop/OMC/main.cpp
+	<iostream>
+	"Star.h"
+	"StarBoss.h"
+	"FileLoader.h"
+	<string.h>
+
+1460479789 /media/ressay/TI31022000A/Users/Omar/Desktop/OMC/include/Star.h
+	<iostream>
+	"stdio.h"
+
+1460408401 /media/ressay/TI31022000A/Users/Omar/Desktop/OMC/include/StarBoss.h
+	"Star.h"
+	"cellContext.h"
+
+1460418695 /media/ressay/TI31022000A/Users/Omar/Desktop/OMC/include/cellContext.h
+	<iostream>
+	"vector"
+
+1460498989 /media/ressay/TI31022000A/Users/Omar/Desktop/OMC/include/FileLoader.h
+	<sstream>
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1460474456 source:/media/ressay/TI31022000A/Users/Omar/Desktop/OMC/src/cellContext.cpp
+	"cellContext.h"
+
+1460500484 source:/media/ressay/TI31022000A/Users/Omar/Desktop/OMC/src/FileLoader.cpp
+	"FileLoader.h"
+	<string.h>
+
+1460480820 source:/media/ressay/TI31022000A/Users/Omar/Desktop/OMC/src/Star.cpp
+	"Star.h"
+
+1460486877 source:/media/ressay/TI31022000A/Users/Omar/Desktop/OMC/src/StarBoss.cpp
+	"StarBoss.h"
+
